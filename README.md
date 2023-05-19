@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
-<h3 align="center">A developer from Brazil</h3>
+<h3 align="center">Federal University of Ouro Preto, Brazil</h3>
 
 - 🔭 I’m currently working on **Python projects**
 
