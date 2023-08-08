@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">Federal University of Ouro Preto, Brazil</h3>
 
-- 🔭 I’m currently working on **Python projects**
-
-- 🌱 I’m currently learning **C data structures**
-
-- 👨‍💻 All of my projects are available at [https://github.com/devYaksha](https://github.com/devYaksha)
-
 - 📫 How to reach me **gssantoz2012@gmail.com**
 
 
