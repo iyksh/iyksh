@@ -23,7 +23,7 @@ I actively work on and have worked on several projects in the past, including, b
 ## Funky Statistics
 <div align="center">
   <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=devYaksha&show_icons=true&theme=tokyonight&hide_border=true" alt="devYaksha" />
-  <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=devYaksha&hide_border=true&theme=tokyonight" alt="devYaksha" />
+  <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?username=devYaksha&hide_border=true&theme=tokyonight" alt="devYaksha" />
   <img width="50%"  src="https://github-readme-stats.vercel.app/api/wakatime?user=devYaksha&theme=tokyonight&langs_count=8&hide_border=true" />
 </div>
 
