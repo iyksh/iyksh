@@ -1,12 +1,10 @@
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
-
 <img align="right" src="https://komarev.com/ghpvc/?username=devYaksha" />
 
 ---
 
 I'm a programmer.
 
-I know **C#**; **Java**; **HTML, CSS - among other things.
+I know **C#**; **Java**; **HTML**, **CSS** - among other things.
 
 Quite a large fan of archival, practically everything I make program probably be kept here if possible. Advocate for free software, willing to settle for open-source.
 
@@ -20,11 +18,10 @@ I actively work on and have worked on several projects in the past, including, b
 * [**Tea Framework**](https://github.com/rejuvena/tea-framework), a progressive modding library and framework for tModLoader mods.
 * [**Rejuvena**](https://github.com/rejuvena/rejuvena), an advanced content mod for Terraria. -->
 
-## Funky Statistics
+## Statistics
 <div align="center">
   <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=devYaksha&show_icons=true&theme=tokyonight&hide_border=true" alt="devYaksha" />
   <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?username=devYaksha&hide_border=true&theme=tokyonight" alt="devYaksha" />
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api/wakatime?user=devYaksha&theme=tokyonight&langs_count=8&hide_border=true" />
+  [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=debYaksha)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-<!-- <img width="33%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steviegt6&theme=tokyonight" alt="Steviegt6" /> -->
+<img width="33%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYaksha&theme=tokyonight" alt="Steviegt6" />
