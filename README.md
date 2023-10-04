@@ -2,9 +2,7 @@
 
 ---
 
-I'm a programmer.
-
-I know somethings.
+I'm a programmer, i know somethings.
 
 I have a strong passion for archiving; most of the programs I create will likely be stored here if feasible. I am a supporter of free software and am open to using open-source alternatives as well.
 
