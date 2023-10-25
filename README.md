@@ -3,8 +3,9 @@
 ---
 
 ## I'm a programmer,
-### Supporter of free software,
-### AI enjoyer.
+### Supporter of free software, AI enjoyer.
+
+---
 
 
 ## Statistics
@@ -13,3 +14,5 @@
 
 <img width="33%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYaksha&theme=tokyonight" alt="Steviegt6" />
 </div>
+
+---
