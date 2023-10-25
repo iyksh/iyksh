@@ -2,9 +2,9 @@
 
 ---
 
-### I'm a programmer, i know somethings.
-
-### Supporter of free software and am open to using open-source alternatives as well.
+## I'm a programmer,
+### Supporter of free software,
+### AI enjoyer.
 
 
 ## Statistics
