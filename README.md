@@ -2,10 +2,8 @@
 
 ---
 
-## I'm a programmer,
-### Supporter of free software, AI enjoyer.
+## I'm a programmer, supporter of free software.
 
----
 
 
 ## Statistics
