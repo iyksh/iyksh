@@ -8,10 +8,9 @@
 
 
 ## Statistics
-<div align="center">
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=devYaksha&show_icons=true&theme=tokyonight&hide_border=true" alt="devYaksha" />
-
-<img width="33%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYaksha&theme=tokyonight" alt="Steviegt6" />
-</div>
-
 ---
+<p align="center">
+<a href="https://github.com/georgehgfonseca">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devYaksha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYaksha&layout=compact&langs_count=7&theme=dark"/>
+</p>  
