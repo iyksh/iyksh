@@ -1,11 +1,15 @@
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <img align="right" src="https://komarev.com/ghpvc/?username=devYaksha" />
 
-### I believe in the power of open-source solutions and the freedom they bring to users. 
+# Hey there, I'm Guilherme.
 
-### Statistics
-<p align="center">
-<a href="https://github.com/devYaksha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devYaksha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYaksha&layout=compact&langs_count=7&theme=dark"/>
-</p>  
+---
+
+I am a software developer who like a headache on difficult things. I enjoy programming, problem solving, reverse engineering, and playing. 
+
+I am versed in a multitude of different languages and technologies. You can take a look at my projects to see what I use more often, but not everything is represented there.
+
+A large fan of archival, practically everything I develop should wind up here eventually. I like open-source software, I prefer free software, and I like earning money and getting paid for my work.
+
+If u need something, consider contacting me through discord, `@iyksh`.
