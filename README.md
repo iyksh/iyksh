@@ -3,7 +3,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=devYaksha" />
 
 
-# Hey, I'm Guilherme.
+# Hey there, I'm Guilherme.
 
 ---
 
