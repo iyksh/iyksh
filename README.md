@@ -2,6 +2,8 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=devYaksha" />
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYaksha&layout=compact&langs_count=7&theme=dark"/>
+
 # Hey there, I'm Guilherme.
 
 ---
@@ -13,4 +15,4 @@ I am versed in a multitude of different languages and technologies. You can take
 A large fan of archival, practically everything I develop should wind up here eventually. I like open-source software, I prefer free software, and I like earning money and getting paid for my work.
 
 If u need something, consider contacting me through discord, `@iyksh`.
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYaksha&layout=compact&langs_count=7&theme=dark"/>
+
