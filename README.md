@@ -11,7 +11,7 @@ I am a software developer who like a headache on difficult things. I enjoy progr
 
 I am versed in a multitude of different languages and technologies. You can take a look at my projects to see what I use more often, but not everything is represented there.
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYaksha&layout=compact&langs_count=7&theme=dark"/>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYaksha&layout=compact&langs_count=7&theme=dark"/>
 
 A large fan of archival, practically everything I develop should wind up here eventually. I like open-source software, I prefer free software, and I like earning money and getting paid for my work.
 
