@@ -11,7 +11,7 @@ I am a software developer who like a headache on difficult things. I enjoy progr
 
 I am versed in a multitude of different languages and technologies. You can take a look at my projects to see what I use more often, but not everything is represented there.
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyksh&layout=compact&langs_count=7&theme=dark"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyksh&layout=compact&langs_count=7&theme=dark"/>
 
 - A large fan of archival. 
 
