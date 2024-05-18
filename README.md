@@ -1,4 +1,5 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=devYaksha" />
+---
 
 ```C
 typedef struct {
@@ -22,9 +23,10 @@ int main() {
 
     printf("Metrics:");
 ```
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyksh&layout=compact&langs_count=7&theme=dark"/>
-
+---
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyksh&layout=compact&langs_count=7&theme=dark"/>
+---
 ```return 0 };```
 
 
