@@ -1,23 +1,36 @@
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
-
 <img align="right" src="https://komarev.com/ghpvc/?username=devYaksha" />
 
+```C
+typedef struct {
+    char* contact;
+    char* discord;
+    char* hobbies;
 
-# Hey there, I'm Guilherme.
+    char* langs;
+    char* coding;
 
----
+} GitHubUser;
 
-I am a software developer who like a headache on difficult things. I enjoy programming, problem solving, reverse engineering, and playing. 
+int main() {
+    GitHubUser iyksh = {
+        "gssantoz2012@gmail.com",
+        "iyksh",
+        "coding, problem solving, gaming, reading", // - Open-source software enjoyer.
+        "Portuguese, English, Spanish",
+        "C/C++, Python, Java, HTML/CSS"
+    };
 
-I am versed in a multitude of different languages and technologies. You can take a look at my projects to see what I use more often, but not everything is represented there.
+    printf("Metrics:");
+```
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+```C
+}
+return 0;
+```
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyksh&layout=compact&langs_count=7&theme=dark"/>
 
----
 
-- A large fan of archival. 
 
-- Open-source software enjoyer.
 
-If u need something, consider contacting me through discord, `@iyksh`.
 
