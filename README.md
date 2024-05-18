@@ -1,37 +1,35 @@
-<img align="left" src="https://komarev.com/ghpvc/?username=devYaksha" />
----
+<img align="center" src="https://komarev.com/ghpvc/?username=devYaksha"/>++
 
 ```C
+#include <stdio.h>
+#include <stdlib.h>
+
 typedef struct {
     char* contact;
-    char* discord;
     char* hobbies;
-
     char* langs;
     char* coding;
-
 } GitHubUser;
 
 int main() {
-    GitHubUser iyksh = {
-        "gssantoz2012@gmail.com",
-        "iyksh",
-        "coding, problem solving, gaming, reading", // - Open-source software enjoyer.
-        "Portuguese, English, Spanish",
-        "C/C++, Python, Java, HTML/CSS"
-    };
+    GitHubUser* iyksh = malloc(sizeof(GitHubUser)); 
 
-    printf("Metrics:");
+    iyksh->contact = "gssantoz2012@gmail.com";
+    iyksh->hobbies = "coding, gaming, reading";
+    iyksh->langs = "Portuguese, English, Spanish";
+    iyksh->coding = "C/C++, Python, Java, HTML/CSS";
+
+    printf("Metrics:\n");
 ```
 ---
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
----
-
-```return 0 };```
-
+<p align="center">
+  <img src="/github-metrics.svg" alt="alt text">
+</p>
 
 
+```C
 
+    free(iyksh);
 
-
-
+    return 0;
+}
