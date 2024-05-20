@@ -1,5 +1,5 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=devYaksha"/>++
-
+---
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -21,15 +21,6 @@ int main() {
 
     printf("Metrics:\n");
 ```
----
 <p align="center">
   <img src="/github-metrics.svg" alt="alt text">
 </p>
-
-
-```C
-
-    free(iyksh);
-
-    return 0;
-}
