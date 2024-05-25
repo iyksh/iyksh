@@ -1,26 +1,19 @@
-<img align="center" src="https://komarev.com/ghpvc/?username=devYaksha"/>++
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="right" src="https://komarev.com/ghpvc/?username=devYaksha" />
+
+
+# Hey there, I'm Guilherme, aka iYksh.
+> [More-Info](https://github.com/iyksh) - `@discord:iyksh` // `@email:gssantoz2012@gmail.com`
+
 ---
-```C
-#include <stdio.h>
-#include <stdlib.h>
 
-typedef struct {
-    char* contact;
-    char* hobbies;
-    char* langs;
-    char* coding;
-} GitHubUser;
+- I program and develop games in my free time. 
 
-int main() {
-    GitHubUser* iyksh = malloc(sizeof(GitHubUser)); 
+- I like **low level programming** and reverse engineering. 
 
-    iyksh->contact = "gssantoz2012@gmail.com";
-    iyksh->hobbies = "coding, gaming, reading";
-    iyksh->langs = "Portuguese, English, Spanish";
-    iyksh->coding = "C/C++, Python, Java, HTML/CSS";
+- Problem solving is fun. 
 
-    printf("Metrics:\n");
-```
-<p align="center">
-  <img src="/github-metrics.svg" alt="alt text">
-</p>
+## More nerdy info
+
+
+
