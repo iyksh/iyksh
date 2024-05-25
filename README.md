@@ -2,18 +2,21 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=devYaksha" />
 
 
-# Hey there, I'm Guilherme, aka iYksh.
+# Hey there, I'm Guilherme.
 > [More-Info](https://github.com/iyksh) - `@discord:iyksh` // `@email:gssantoz2012@gmail.com`
 
 ---
 
-- I program and develop games in my free time. 
+# What do I like?
 
-- I like **low level programming** and reverse engineering. 
+- Low level programming and reverse engineering; 
 
-- Problem solving is fun. 
+- I program and develop games in my free time; 
 
-## More nerdy info
+- Reading opensource projects;
 
+- Learn new things related;
 
+- Problem solving;
 
+- GNU/Linux.
