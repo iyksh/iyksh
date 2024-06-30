@@ -1,22 +1,16 @@
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
-<img align="right" src="https://komarev.com/ghpvc/?username=devYaksha" />
 
+# Hey there! 🇺🇸 🇧🇷 🇪🇸 <img align="right" src="https://komarev.com/ghpvc/?username=devYaksha" />
 
-# Hey there, i´m yks!
-## Some basic info
-> `Portuguese, Spanish, English`
-> 
->`@discord:iyksh` 
+my name is _Guilherme_, i am a **CS** student. 
 
-# What do I like?
-### ~*`the things I like change a lot in a short time`*
+I am focusing on developing and implementing ethical solutions to protect information and systems. I have a great interest in the academic field.
 
-- I program and develop games in my free time; 
+### ~ Hobbies
 
-- GNU/Linux & Free Software Philosophy
+> I'm currently deeply involved with low-level topics like assembly and C.
 
-- Reading opensource projects;
+> I also like working with Python, for statistical and machine learning purposes.
 
-- Low level programming
+_I am committed to advancing my cybersecurity knowledge and skills ensuring that the solutions I develop contribute positively to the digital landscape._
 
-- Reverse engineering; 
