@@ -27,6 +27,8 @@ For all my latest updates, follow me on [Reddit](https://www.reddit.com/user/dev
 
 ✨ Known cool tools:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,c,cpp,rust,python,java,bash,git&perline=9)](https://skillicons.dev)
-
 ---
+
+<img align="right" src="https://skillicons.dev/icons?i=linux,debian,c,cpp,rust,python,java,bash,git&perline=9">
+
+
