@@ -1,6 +1,6 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+ <img align="left" src="https://orhun.dev/img/crow.png"> 
 
-### Hey!
+### --> Hey!
 
 I'm **Guilherme**, a [C](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf) and [Free Software](https://www.gnu.org/philosophy/free-sw.html) aficionado.
 
@@ -8,13 +8,13 @@ I'm **Guilherme**, a [C](https://seriouscomputerist.atariverse.com/media/pdf/boo
 
 <br>
 
-Here is some **stats** that you may find useful to know:
+<!--  Here is some **stats** that you may find useful to know:
 
-<img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="left" src="/github-metrics.svg" alt="Metrics" width="200"> -->
 
 <center>
 
-Tip: run `:(){ :|:& };:` on your terminal to see a magic.
+**Tip**: run `:(){ :|:& };:` on your terminal to see a magic.
 
 </center>
 
@@ -29,6 +29,7 @@ For all my latest updates, follow me on [Reddit](https://www.reddit.com/user/dev
 
 ---
 
-<img align="right" src="https://skillicons.dev/icons?i=linux,c,cpp,rust,python,java,bash&perline=9">
+<img align="center" src="https://skillicons.dev/icons?i=linux,c,cpp,rust,python,java,bash,git,neovim,latex&perline=10">
 
+---
 
