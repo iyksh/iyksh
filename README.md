@@ -1,12 +1,32 @@
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="left" src="https://orhun.dev/img/crow.png">
 
-# Hey there! 🇺🇸 🇧🇷 🇪🇸 <img align="right" src="https://komarev.com/ghpvc/?username=devYaksha" />
+### Hey!
 
-my name is _Guilherme_, i am a **CS** student. 
+I'm **Guilherme**, a [C](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf) and [Free Software](https://www.gnu.org/philosophy/free-sw.html) aficionado.
 
-### ~ Hobbies
+[![views](https://komarev.com/ghpvc/?username=devYaksha&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun)
 
-> I'm currently deeply involved with low-level topics like assembly and C.
+<br>
 
-> I also like working with Python, for statistical and machine learning purposes.
+Here is some **stats** that you may find useful to know:
 
+<img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
+
+<center>
+
+Tip: run `:(){ :|:& };:` on your terminal to see a magic.
+
+</center>
+
+**\>\_** I am actively working on [ByteOS](https://github.com/iyksh/ByteOS) (a operating system for the i686 architecture) - **UNIX**-Like.
+
+**\>\_** Also, lately I'm flirting with the idea of ​​cybersec in networking and tools _(reverse engineering is cool)_.
+
+For all my latest updates, follow me on [Reddit](https://www.reddit.com/user/devYaksha/). If you have **job-related** inquiries, please don't hesitate to connect with me via [e-mail](mailto:gssantoz2012@gmail.com).
+
+
+✨ Known cool tools:
+
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,c,cpp,rust,python,java,bash,git&perline=9)](https://skillicons.dev)
+
+---
