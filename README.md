@@ -29,6 +29,6 @@ For all my latest updates, follow me on [Reddit](https://www.reddit.com/user/dev
 
 ---
 
-<img align="right" src="https://skillicons.dev/icons?i=linux,debian,c,cpp,rust,python,java,bash,git&perline=9">
+<img align="right" src="https://skillicons.dev/icons?i=linux,c,cpp,rust,python,java,bash&perline=9">
 
 
