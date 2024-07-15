@@ -1,4 +1,4 @@
- <img align="left" src="https://orhun.dev/img/crow.png"> 
+ <img align="left" src="9429524d-18a3-4f17-b092-ae35c4682ac4_8c92ae4d-1e66-4d3d-8eea-0c71c39696ff(1).gif" width="400px"> 
 
 ### --> Hey!
 
