@@ -4,7 +4,7 @@
 
 I'm **Guilherme**, a [C](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf) and [Free Software](https://www.gnu.org/philosophy/free-sw.html) aficionado.
 
-[![views](https://komarev.com/ghpvc/?username=devYaksha&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun)
+[![views](https://komarev.com/ghpvc/?username=devYaksha&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/iyksh)
 
 <br>
 
