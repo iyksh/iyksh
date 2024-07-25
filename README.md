@@ -22,7 +22,7 @@ I'm **Guilherme**, a [C](https://seriouscomputerist.atariverse.com/media/pdf/boo
 
 **\>\_** Also, lately I'm flirting with the idea of ​​cybersec in networking and tools _(reverse engineering is cool)_.
 
-For all my latest updates, follow me on [Reddit](https://www.reddit.com/user/devYaksha/). If you have **job-related** inquiries, please don't hesitate to connect with me via [e-mail](mailto:gssantoz2012@gmail.com).
+If you have **job-related** inquiries, please don't hesitate to connect with me via [e-mail](mailto:gssantoz2012@gmail.com).
 
 
 ✨ Known cool tools:
