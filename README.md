@@ -1,20 +1,15 @@
- <img align="left" src="9429524d-18a3-4f17-b092-ae35c4682ac4_8c92ae4d-1e66-4d3d-8eea-0c71c39696ff(1).gif" width="400px"> 
 
-### --> Hey!
+<center>
+
+##### [![views](https://komarev.com/ghpvc/?username=devYaksha&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/iyksh) ++
 
 I'm **Guilherme**, a [C](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf) and [Free Software](https://www.gnu.org/philosophy/free-sw.html) aficionado.
-
-[![views](https://komarev.com/ghpvc/?username=devYaksha&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/iyksh)
 
 <br>
 
 <!--  Here is some **stats** that you may find useful to know:
 
 <img align="left" src="/github-metrics.svg" alt="Metrics" width="200"> -->
-
-<center>
-
-**Tip**: run `:(){ :|:& };:` on your terminal to see a magic.
 
 </center>
 
